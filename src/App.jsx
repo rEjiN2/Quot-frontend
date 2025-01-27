@@ -148,10 +148,12 @@
 
 import React from 'react'
 import EstimateForm from './components/Estimates/Estimates'
+import EstimateList from './Pages/EstimateList/EstimateList'
 
 function App() {
   return (
     <div><EstimateForm/></div>
+    // <div><EstimateList/></div>
   )
 }
 
